@@ -24,10 +24,10 @@ The model was trained on approximately 1600 satellite images sourced from variou
  
 ## Example Image  
 ![Solar Panel Detection Example](Sample_images/Picture1.png)
-![Solar Panel Detection Example](Sample_images/Picture2.png)
+
 ![Solar Panel Detection Example](Sample_images/Picture3.png)
-![Solar Panel Detection Example](Sample_images/Picture4.png)
-![Solar Panel Detection Example](Sample_images/Picture5.png)
+![Solar Panel Detection Example](Sample_images/Picture4.jpg)
+![Solar Panel Detection Example](Sample_images/Picture5.jpg)
 ![Solar Panel Detection Example](Sample_images/sample.png)
 
 
