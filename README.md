@@ -21,11 +21,15 @@ This project uses a custom-trained YOLOv8 instance segmentation model to detect 
 ## Dataset  
 The model was trained on approximately 1600 satellite images sourced from various platforms like Bhoonidhi. These images were then manually annotated to identify solar panels for training the YOLOv8 instance segmentation model.
 
+ 
 ## Example Image  
-![Solar Panel Detection Example](Sample_images\Picture1.png)
-(Sample_images\Picture2.png)(Sample_images\Picture3.png)
-(Sample_images\Picture4.png)(Sample_images\Picture5.png)
-(Sample_images\sample.png)
+![Solar Panel Detection Example](Sample_images/Picture1.png)
+![Solar Panel Detection Example](Sample_images/Picture2.png)
+![Solar Panel Detection Example](Sample_images/Picture3.png)
+![Solar Panel Detection Example](Sample_images/Picture4.png)
+![Solar Panel Detection Example](Sample_images/Picture5.png)
+![Solar Panel Detection Example](Sample_images/sample.png)
+
 
 ## Future Plans  
 - Improving dataset quality  
