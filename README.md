@@ -36,4 +36,8 @@ The model was trained on approximately 1600 satellite images sourced from variou
 
 ## Contributors  
 - Rochan Awasthi (https://github.com/Macbeth1501)  
-- Sayali Bambal (https://github.com/SayaiB24)  
+- Sayali Bambal (https://github.com/SayaiB24)
+
+- ## License
+This project is under a Proprietary License. Viewing is allowed, but copying, modifying, or distributing is strictly prohibited.
+
