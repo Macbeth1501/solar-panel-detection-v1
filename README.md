@@ -9,7 +9,7 @@ This project uses a custom-trained YOLOv8 instance segmentation model to detect 
 - Future updates will include dataset improvements, model refinements, and deployment  
 
 ## Installation
-1. Clone the repository:  git clone https://github.com/your-username/solar-panel-extraction.git
+1. Clone the repository:  git clone [https://github.com/Macbeth1501/solar-panel-extraction](https://github.com/Macbeth1501/solar-panel-detection-v1).git
 
 2. Install dependencies:  pip install -r requirements.txt
 
