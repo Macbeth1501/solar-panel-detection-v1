@@ -60,6 +60,6 @@ This project utilizes a custom-trained YOLOv8 instance segmentation model to det
 - Rochan Awasthi (https://github.com/Macbeth1501)  
 - Sayali Bambal (https://github.com/SayaiB24)
 
-- ## License
+## License
 This project is under a Proprietary License. Viewing is allowed, but copying, modifying, or distributing is strictly prohibited.
 
