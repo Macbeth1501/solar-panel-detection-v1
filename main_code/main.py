@@ -68,7 +68,7 @@ def show_loading_animation(show):
 
 # Create the main Tkinter window
 window = tk.Tk()
-window.title("Solar Panel Detection (A Project by Rochan Awasthi)")
+window.title("Solar Panel Detection (A Project by Rochan Awasthi & Sayali Bambal)")
 window.geometry("700x700")  # Set window size
 
 # Center the window on the screen
@@ -118,7 +118,7 @@ loading_label = tk.Label(window, text="Processing... Please wait.", font=("Arial
 
 # Start the Tkinter event loop
 # Add the "Created by Rochan Awasthi" label at the bottom
-footer_label = tk.Label(window, text="Created by Rochan Awasthi", font=("Arial", 10), fg="gray", bg="#f0f0f0")
+footer_label = tk.Label(window, text="Created by Rochan Awasthi & Sayali Bambal", font=("Arial", 10), fg="gray", bg="#f0f0f0")
 footer_label.pack(side="bottom", pady=10)
 
 window.mainloop()
